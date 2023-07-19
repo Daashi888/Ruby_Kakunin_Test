@@ -23,7 +23,7 @@ class School
   end
 end
 
-A学校用のインスタンスを作成
+# A学校用のインスタンスを作成
 a_school = School.new("A学校", "東京都渋谷区..", 300, 100, "https://hoge.com", "A学校は自然豊かな...")
 
 a_school.sample_instance_method
